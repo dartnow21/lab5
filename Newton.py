@@ -8,8 +8,8 @@ import numexpr as ne
 import sympy as sp
 import copy
 
-from handlers.input_validation import check_expression, check_restr, check_point
-from handlers.prepocessing import prepare_all
+from lab5.handlers.input_validation import check_expression, check_restr, check_point
+from lab5.handlers.prepocessing import prepare_all
 
 
 class Newton:
