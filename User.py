@@ -1,8 +1,8 @@
-from barriers import *
-from Newton import *
-from primal_dual import *
-from handlers.input_validation import check_expression, check_restr, check_point
-from handlers.prepocessing import prepare_all
+from lab5.barriers import *
+from lab5.Newton import *
+from lab5.primal_dual import *
+from lab5.handlers.input_validation import check_expression, check_restr, check_point
+from lab5.handlers.prepocessing import prepare_all
 
 
 class User:
