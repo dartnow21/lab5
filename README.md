@@ -7,8 +7,9 @@
 
 ## Документация проекта 
 
-(там же присутствуют тесты программы на разных датасетах в пункте 4): 
+Документация: https://github.com/dartnow21/lab5/blob/main/TZ5%20(1).docx
+Тесты: https://github.com/dartnow21/lab5/blob/main/Testirovanie.docx
 
 ## Демонстрация возможностей программы
 
-Пример программы представлен в GoogleColab: 
+Пример программы представлен в GoogleColab: https://colab.research.google.com/drive/1QQ7zX3QX2g8M8EQJ0LQJ-bMWUgFYwIIc?usp=sharing
